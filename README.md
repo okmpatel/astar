@@ -1,3 +1,3 @@
 # astar
 
-This is a class on A* (A-star) algorithm.
+This is a class project on A* (A-star) algorithm.
